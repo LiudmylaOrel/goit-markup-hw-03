@@ -212,7 +212,6 @@ img {
 }
 
 .team-text-container {
-    border-radius: 0 0 4px 4px;
     padding: 32px 0;
 }
 
@@ -224,6 +223,7 @@ img {
 .team-item {
     background-color: #fff;
     width: calc((100% - 24px * 3) / 4);
+    border-radius: 0 0 4px 4px;
 }
 
 .team-subtitle {
